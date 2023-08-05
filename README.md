@@ -51,4 +51,4 @@ The insights gained from our analysis were vividly represented through various d
 
 ## Insights and Recommendations
 
-Based on the comprehensive EDA, we have drawn actionable insights and recommendations for app developers, marketers, and stakeholders. These insights can serve as valuable guidance to enhance app performance, elevate user experiences, and refine marketing strategies.
+Based on the comprehensive EDA, we have drawn actionable insights and recommendations for app developers, marketers, and stakeholders. These insights can serve as valuable guidance to enhance app performance, elevate user experiences and refine marketing strategies.
